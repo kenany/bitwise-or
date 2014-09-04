@@ -1,5 +1,7 @@
 # bitwise-or
 
+[![Build Status](https://img.shields.io/travis/KenanY/bitwise-or.svg)](https://travis-ci.org/KenanY/bitwise-or)
+
 Bitwise OR (`|`) as a function. Just in case you ever need to pass the operation
 to something else as a function.
 
