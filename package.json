@@ -1,6 +1,6 @@
 {
   "name": "bitwise-or",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Bitwise OR as a function",
   "keywords": [
     "bitwise"
